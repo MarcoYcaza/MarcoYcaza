@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @MarcoYcaza
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me : ycaza.marco@gmail.com
 
 <!---
